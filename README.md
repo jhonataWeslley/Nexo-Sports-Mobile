@@ -35,7 +35,7 @@ O aplicativo possui funcionalidades como:
 Clone o repositório:
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/jhonataWeslley/Nexo-Sports-Mobile/tree/main
 ```
 
 Entre na pasta do projeto:
@@ -67,8 +67,8 @@ npx expo start
 
 **Integrantes da equipe:**
 
-Fabricio de Souza Carvalho - Desenvolvimento dos detalhes dos produtos
-Jemmerson da Silva Rocha - Desenvolvimento do carrinho de compras
-Jhonata Weslley Sousa de Oliveira - Desenvolviemnto do login e home (Tela principal)
-João Vitor Viana de Azevedo - Desenvolvimento do profile 
+1. Fabricio de Souza Carvalho - Desenvolvimento dos detalhes dos produtos;
+2. Jemmerson da Silva Rocha - Desenvolvimento do carrinho de compras;
+3. Jhonata Weslley Sousa de Oliveira - Desenvolviemnto do login e home (Tela principal);
+4. João Vitor Viana de Azevedo - Desenvolvimento do profile;
 
