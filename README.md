@@ -1,50 +1,74 @@
-# Welcome to your Expo app 👋
+**Nexo Sports Mobile:**
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Aplicativo mobile desenvolvido utilizando React Native com Expo Router para a disciplina de Desenvolvimento para Dispositivos Móveis.
 
-## Get started
 
-1. Install dependencies
+**Sobre o Projeto:**
 
-   ```bash
-   npm install
-   ```
+O Nexo Sports é um aplicativo mobile voltado para produtos esportivos.
 
-2. Start the app
+O projeto foi desenvolvido com o objetivo de aplicar conceitos fundamentais do React Native, incluindo:
+- Navegação entre telas
+- Componentes visuais
+- Layout com Flexbox
+- Manipulação de listas
+- Estruturação de aplicações mobile
 
-   ```bash
-   npx expo start
-   ```
+O aplicativo possui funcionalidades como:
+- Login
+- Catálogo de produtos
+- Tela de detalhes
+- Carrinho
+- Perfil do usuário
 
-In the output, you'll find options to open the app in a
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+**Tecnologias Utilizadas:**
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- React Native
+- Expo
+- Expo Router
+- TypeScript
 
-## Get a fresh project
 
-When you're ready, run:
+**Instalação do Projeto:**
+
+Clone o repositório:
 
 ```bash
-npm run reset-project
+git clone LINK_DO_REPOSITORIO
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Entre na pasta do projeto:
 
-## Learn more
+```bash
+cd sportzone
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+Instale as dependências:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+npm install
+```
 
-## Join the community
+Inicie o projeto:
 
-Join our community of developers creating universal apps.
+```bash
+npx expo start
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+**Como utilizar:**
+
+1. Abra o aplicativo pelo Expo Go.
+2. Faça login na tela inicial.
+3. Navegue entre as telas do aplicativo.
+4. Visualize os produtos esportivos.
+5. Acesse detalhes dos produtos.
+6. Utilize a navegação entre telas.
+
+**Integrantes da equipe:**
+
+Fabricio de Souza Carvalho - Desenvolvimento dos detalhes dos produtos
+Jemmerson da Silva Rocha - Desenvolvimento do carrinho de compras
+Jhonata Weslley Sousa de Oliveira - Desenvolviemnto do login e home (Tela principal)
+João Vitor Viana de Azevedo - Desenvolvimento do profile 
+
