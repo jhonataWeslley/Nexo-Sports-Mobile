@@ -67,7 +67,7 @@ npx expo start
 
 **Integrantes da equipe:**
 
-1. Fabricio de Souza Carvalho - Desenvolvimento dos detalhes dos produtos (details.tsx);
-2. Jemmerson da Silva Rocha - Desenvolvimento do carrinho de compras (cart.tsx);
-3. Jhonata Weslley Sousa de Oliveira - Desenvolviemnto do login e home (login.tsx e index.tsx);
-4. João Vitor Viana de Azevedo - Desenvolvimento do perfil (profile.tsx);
+1. Fabricio de Souza Carvalho (01790981) - Desenvolvimento dos detalhes dos produtos (details.tsx);
+2. Jemmerson da Silva Rocha (01796930) - Desenvolvimento do carrinho de compras (cart.tsx);
+3. Jhonata Weslley Sousa de Oliveira (01847386) - Desenvolviemnto do login e home (login.tsx e index.tsx);
+4. João Vitor Viana de Azevedo (01784017) - Desenvolvimento do perfil (profile.tsx);
